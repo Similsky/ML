@@ -4,5 +4,5 @@ from __future__ import division
 from __future__ import absolute_import
 
 for i in range(10):
-    for j in range(i):
+    for j in range(5):
         print("i+j=", i+j)
